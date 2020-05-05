@@ -9,6 +9,8 @@
 <br>
 <br>
 <h3>管理人员页面<h3>
+  <b>账号：manager
+密码：123456</b>
 <h4>商品</h4>
 <img src="https://github.com/Dkingo/UMR/blob/master/img/商品.jpg"></img>
   <br>
