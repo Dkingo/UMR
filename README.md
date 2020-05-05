@@ -4,4 +4,4 @@
 账号：abc
 密码：456123
 <br>
-![image](https://github.com/Dkingo/UMR/blob/master/img/1.jpg)
+<img src="https://github.com/Dkingo/UMR/blob/master/img/人员管理.jpg"></img>
