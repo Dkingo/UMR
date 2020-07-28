@@ -1,5 +1,6 @@
 # UMR
 <h2>小型超市管理系统</h2>
+<h3>使用技术：jdk1.8 + eclipse，该系统使用GUI技术进行编写</h3>
 <img src="https://github.com/Dkingo/UMR/blob/master/img/首页.jpg"></img>
 <h3>收银模块</h3>
 <b>账号：abc
